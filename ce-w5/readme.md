@@ -1,0 +1,1 @@
+Video Lecture M1.1.4: At 4:07, the code appearing on the screen is missing square brackets in function foo as follows: foo(slide [] int).
